@@ -14,8 +14,5 @@
 * <a href="https://github.com/archine/tools/tree/master/tools-redis" title="redis分布式锁和分布式缓存">tools-redis</a> (redis分布式锁和缓存)
 
 :exclamation: 请注意，项目JDK版本支持1.8+
----
-#### **作者**
-* Gjing   
-:sunny:使用中出现任何BUG和有任何疑问可以联系我邮箱: me@gjing.cn      
-我的博客：[点击前往](https://yq.aliyun.com/users/ni2fxx5sipgvo?spm=a2c4e.11155435.allcontent.1.5f1e781c2lFtJy)
+
+转载自：https://yq.aliyun.com/users/ni2fxx5sipgvo?spm=a2c4e.11155435.allcontent.1.5f1e781c2lFtJy
